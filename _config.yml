@@ -10,12 +10,25 @@ personal_site:
   url: http://ags.aarongs.org/
   title: Página WEB personal
 # show today marker at end of timeline
-show_today: false
+show_today: True
 
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - Septiembre 2017: "🔬 Inicio de los estudios de Grado en Biología"
-    - Julio 2021: "🧑🏼‍🎓 Finalización de los estudios de Grado en Biología"
+    - Septiembre 2017: "🔬 Inicio de los estudios de Grado en Biología."
+    - Septiembre 2018: "🐺 Inicio de actividad como Alumno interno en el departamento de Zoología de la universidad de Granada."
+    - Mayo 2018: "📷 Realización de curso: Iniciación a la Fotografía Científica , Asociación Darwin Eventur , 25 horas."
+    - Mayo 2018: "🤖 Realización de curso: Arduino : Conviértete en un experto desde cero, Asociación Darwin Eventur , 120 horas."
+    - Noviembre 2019: "🐾 Realización de curso: Rastreo de Fauna Silvestre: Metodología y Principios Básicos Aplicables, Asociación Darwin Eventur , 40 horas."
+    - Julio 2020: "💻 Realización de curso: Bioinformática de Muestras Biológicas: Bioestadística Univariable y Multivariable Aplicada a Resultados con Muestras de Secuenciación Masiva, Centro Mediterráneo, 30 horas."
+    - Abril 2021: "💻 Realización de curso: Python Aplicado, Nivel Medio, Asociación Darwin Eventur, 80 horas."
+    - Junio 2021: "🐺 Fin de actividad como Alumno interno en el departamento de Zoología de la universidad de Granada."
+    - Julio 2021: "🧑🏼‍🎓 Finalización de los estudios de Grado en Biología."
+    - Julio 2021: "🧬 Inicio de actividad como colaborador del departamento de Genética."
+    - Octubre 2021: "💻 Realización de curso: Especialista en Bioinformática y Biología computacional, Euroinnova, 200."
+    - Noviembre 2021: "🥳 Acreditación nivel C1 de Ingles (British Council)."
+    - Abril 2022: "💻 Realización de curso: MOOC Machine Learning y Big Data para la Bioinformática, Abierta ugr, 100."
+    - Julio 2022: "🥳 Publicación de mi primer artículo: Una Calculadora de Genes para enseñar mendelismo, interacciones génicas y ligamiento."
+    - Agosto 2022: "🤿 Acreditación de buzo de aguas abiertas (PADI)."
   #- name: Granada
