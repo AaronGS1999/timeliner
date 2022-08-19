@@ -10,7 +10,7 @@ personal_site:
   url: http://ags.aarongs.org/
   title: Página WEB personal
 # show today marker at end of timeline
-show_today: true
+show_today: false
 
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
